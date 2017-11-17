@@ -1,0 +1,167 @@
+#+LANGUAGE: es
+#+CATEGORY: manual, presentación, congreso, ponencia
+#+TAGS: commandline, línea de comandos, ls, pwd, mkdir, cd, touch, cp, mv, stdin, stdout, stderr, posix, diff, grep, egrep, find, awk, sed
+#+DESCRIPTION: Acometer un proyecto en Medialab-Prado
+#+TITLE: Visualizar17
+#+DATE: <2017-05-06 sáb 10:00>
+#+AUTHOR: Adolfo A. Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+* Datalab
+#+attr_html: :width 400px
+file:img/logo-datalab.png 
+
+** Actividades
+- Taller de Producción de Periodismo de Datos /TPPD/
+- Taller de Visualización de Datos Visualizar /V/
+- Jornadas de Periodismo de Datos /JPD/
+- Día del Amor por el Software Libre /ILOVEFS/
+- Día de los Datos Abiertos /ODD/
+- Día de Ada Lovelace /Adaday/ 
+
+* Medialab-Prado
+  :PROPERTIES:
+  :reveal_background: ./img/visualizar17.jpg
+  :END:
+
+* Visualizar'17: Migraciones
+
+- Taller Internacional de prototipado de proyectos de Visualización de Datos
+- 8 proyectos, 70 colaboradorxs
+- 10 ponentes, 12 mentorxs, 4 mediadorxs, 1 organizador, 2 apoyos.
+- 15 días: simposio, 2; taller, 12; descanso, 1; presentación: 1/2
+- Convocatoria abierta de proyectos y colaboradorxs
+- 4 entidades colaboradoras.
+
+** Alianzas
+#+attr_html: :width 300px
+file:alianzas.png
+
+- PorCausa
+- GVSIG
+- Transeuropa Festival
+- Haskell Group Madrid
+
+** Ponentes
+#+attr_html: :width: 300px
+file:ponentes-con-yuri.png
+
+- Alba G. Corral
+- Domestic Data Streamers
+- Alison Killing
+- Julie Freeman
+- Álvaro Anguix
+- Yuri Engelhardt
+
+** Comunicación
+   :PROPERTIES:
+   :reveal_background: visualizar.gif
+   :END:
+
+
+* Proyectos
+- Agrega.la: http://agrega.la
+- Cerebros en movimiento: https://cerebrosenmovimiento.github.io/proyecto/index.html
+- Historia de Zainab: http://historiadezainab.org
+- Mobilomics: https://medialab-prado.github.io/mobilomics/
+- Población dirigida: https://territoriodedatos.org/poblacion-dirigida 
+- Planeta excedencia: http://planetaexcedencia.es
+- Soy de Temporada: http://soydetemporada.es 
+- Trackula: http://trackula.org 
+* Agrega.la
+* Cerebros en Movimiento
+- Orcid, plataforma digital creada en 2012.
+- Facilita un identificador numérico único (ID) a cada investigador o científico que se registre gratuitamente.
+- Hay cerca de 3 millones de usuarios.
+- Importantes editores, académicos e instituciones demandan como requisito una identificación de Orcid.
+** https://cerebrosenmovimiento.github.io/
+   :PROPERTIES:
+   :reveal_background: cerebros-en-movimiento.png
+   :END:
+* Historia de Zainab
+
+** historiadezainab.org
+   :PROPERTIES:
+   :reveal_background: file:historia-de-zainab.png
+   :END:
+
+* Mobilomics
+- Estudia la relación entre la movilidad y la contaminación de un día cotidiano en Madrid
+- 20 septiembre 2017
+- Utiliza publicaciones geolocalizadas en Twitter e Instagram.
+- Datos de la contaminación de Madrid y del tráfico.
+- Ilustraciones.
+
+** medialab-prado.github.io/mobilomics/
+   :PROPERTIES:
+   :reveal_background: file:mobilomics.png
+   :END:
+   
+* Población dirigida
+- 1939-1973, el Instituto Nacional de Colonización (INV) promovió la construcción en España de más de 300 pueblos.
+- Creación de amplias zonas de regadío y el aumento de su productividad.
+- Se movilizaron aproximadamente a 55.000 familias.
+- Movimiento migratorio de mayor envergadura promovido por el Estado español en el siglo XX.
+- La colonización fue un proceso multidimensional caracterizado por una toma abundante de datos.
+- Territorio de datos es un grupo multidisciplinar interesado en la investigación en torno al territorio y sus dinámicas.
+
+** territoriodatos.org/poblacion-dirigida
+   :PROPERTIES:
+   :reveal_background: file:poblacion-dirigida.png
+   :END:
+
+* Planeta excedencia
+- Un planeta de 40.500 personas que migran en 2016 por el cuidado personas a su cargo.
+- Esta fórmula pretende conciliar la vida familiar y laboral.
+. Como norma general, se asegura el puesto de trabajo el primer año.
+- ¿Quiénes son sus habitantes?
+- ¿Se produce un retorno al mundo laboral?
+** planetaexcedencia.es
+   :PROPERTIES:
+   :reveal_background: file:planeta-excedencia.png
+   :END:
+
+* Soy de Temporada
+ -Comer productos de temporada es bueno para tu salud, tu bolsillo y el medio ambiente.
+- Reduce las emisiones de CO2
+- Apoyas la sostenibilidad de la tierra
+- Consumes productos que han sido recogidos en su punto óptimo de maduración
+- Participas de un precio justo
+- Favoreces la economía local.
+** soydetemporada.es
+   :PROPERTIES:
+   :reveal_background: file:soydetemporada.png
+   :END:
+
+
+* Trackula
+- Visualización interactiva de tu rastro en internet y de qué sitios web te rastrean a través de los contenidos que visitas cada día.
+- http://trackula.org
+
+#+BEGIN_QUOTE
+Para explicar cómo funcionan las interconexiones en la web utilizamos como metáfora las setas, ya que el micelio de las mismas (con lo que absorben nutrientes de la tierra) está unido bajo tierra e interconecta a los hongos.
+
+Las setas son las páginas web que visitas conscientemente al navegar, y los puntos en los que se interconectan con otros son recursos de terceros que se encuentran incrustados tanto en una como en otra web.
+#+END_QUOTE
+** trackula.org 
+   :PROPERTIES:
+   :reveal_background: file:trackula.png 
+   :END:
+
+
