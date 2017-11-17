@@ -9,7 +9,7 @@
 #+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
 
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil reveal-title-slide:nil
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil reveal_title_slide:nil
 #+OPTIONS: reveal_width:1200 reveal_height:800
 #+OPTIONS: toc:nil
 #+REVEAL_MARGIN: 0.1
@@ -23,9 +23,13 @@
 #+REVEAL_PLUGINS: (highlight markdown notes)
 #+REVEAL_ROOT: ///cdn.jsdelivr.net/reveal.js/3.0.0/
 
-* Datalab
+* Visualizar'17
+
 #+attr_html: :width 400px
 https://github.com/medialab-prado/v17-presentacion/raw/master/img/logo-datalab.png 
+
+- Uno de los proyectos del Datalab de Medialab-Prado
+- Tercera edición en el edificio La Serrería Belga y tercera edición que coordino.
 
 ** Actividades
 - Taller de Producción de Periodismo de Datos /TPPD/
@@ -41,7 +45,7 @@ https://github.com/medialab-prado/v17-presentacion/raw/master/img/logo-datalab.p
   :END:
 
 * Visualizar'17: Migraciones
-
+#+ATTR_REVEAL: :frag (appear)
 - Taller Internacional de prototipado de proyectos de Visualización de Datos
 - 8 proyectos, 70 colaboradorxs
 - 10 ponentes, 12 mentorxs, 4 mediadorxs, 1 organizador, 2 apoyos.
@@ -164,3 +168,13 @@ Las setas son las páginas web que visitas conscientemente al navegar, y los pun
    :END:
 
 
+* Visualizar'18
+
+- Vamos a trabajar los datos personales
+- Estamos tejiendo ahora las alianzas para mejorar todavía más el taller
+- Si quieres colaborar:
+ - adolfo@medialab-prado.es
+ - tw:@adolflow
+ - gh:@flowsta
+
+* Gracias
