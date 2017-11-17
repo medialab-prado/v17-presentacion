@@ -21,7 +21,7 @@
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
 #+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
 #+REVEAL_PLUGINS: (highlight markdown notes)
-#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_ROOT: ///cdn.jsdelivr.net/reveal.js/3.0.0/
 
 * Datalab
 #+attr_html: :width 400px
