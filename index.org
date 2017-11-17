@@ -25,7 +25,7 @@
 
 * Datalab
 #+attr_html: :width 400px
-file:img/logo-datalab.png 
+https://github.com/medialab-prado/v17-presentacion/raw/master/img/logo-datalab.png 
 
 ** Actividades
 - Taller de Producción de Periodismo de Datos /TPPD/
@@ -37,7 +37,7 @@ file:img/logo-datalab.png
 
 * Medialab-Prado
   :PROPERTIES:
-  :reveal_background: ./img/visualizar17.jpg
+  :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar17.jpg
   :END:
 
 * Visualizar'17: Migraciones
@@ -51,7 +51,7 @@ file:img/logo-datalab.png
 
 ** Alianzas
 #+attr_html: :width 300px
-file:alianzas.png
+https://github.com/medialab-prado/v17-presentacion/raw/master/img/alianzas.png
 
 - PorCausa
 - GVSIG
@@ -60,7 +60,7 @@ file:alianzas.png
 
 ** Ponentes
 #+attr_html: :width: 300px
-file:ponentes-con-yuri.png
+https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-yuri.png
 
 - Alba G. Corral
 - Domestic Data Streamers
@@ -71,7 +71,7 @@ file:ponentes-con-yuri.png
 
 ** Comunicación
    :PROPERTIES:
-   :reveal_background: visualizar.gif
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar.gif
    :END:
 
 
@@ -85,20 +85,29 @@ file:ponentes-con-yuri.png
 - Soy de Temporada: http://soydetemporada.es 
 - Trackula: http://trackula.org 
 * Agrega.la
+- Red presente en Brasil, Argentina, Colombia y México
+- Tiene como objetivo promover la visibilización de contenidos y acciones entre medios independientes, libres o comunitarios.
+- Copia contenidos de Facebook, Twitter o RSS
+- Promueve acceso público y universal al contenido que de otra manera permanece cautivo.
+** agrega.la
+   :PROPERTIES:
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/agregala.png
+   :END:
+
 * Cerebros en Movimiento
 - Orcid, plataforma digital creada en 2012.
 - Facilita un identificador numérico único (ID) a cada investigador o científico que se registre gratuitamente.
 - Hay cerca de 3 millones de usuarios.
 - Importantes editores, académicos e instituciones demandan como requisito una identificación de Orcid.
-** https://cerebrosenmovimiento.github.io/
+** cerebrosenmovimiento.github.io
    :PROPERTIES:
-   :reveal_background: cerebros-en-movimiento.png
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/cerebros-en-movimiento.png
    :END:
 * Historia de Zainab
 
 ** historiadezainab.org
    :PROPERTIES:
-   :reveal_background: file:historia-de-zainab.png
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/historia-de-zainab.png
    :END:
 
 * Mobilomics
@@ -110,7 +119,7 @@ file:ponentes-con-yuri.png
 
 ** medialab-prado.github.io/mobilomics/
    :PROPERTIES:
-   :reveal_background: file:mobilomics.png
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/mobilomics.png
    :END:
    
 * Población dirigida
@@ -123,7 +132,7 @@ file:ponentes-con-yuri.png
 
 ** territoriodatos.org/poblacion-dirigida
    :PROPERTIES:
-   :reveal_background: file:poblacion-dirigida.png
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/poblacion-dirigida.png
    :END:
 
 * Planeta excedencia
@@ -134,7 +143,7 @@ file:ponentes-con-yuri.png
 - ¿Se produce un retorno al mundo laboral?
 ** planetaexcedencia.es
    :PROPERTIES:
-   :reveal_background: file:planeta-excedencia.png
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/planeta-excedencia.png
    :END:
 
 * Soy de Temporada
@@ -146,7 +155,7 @@ file:ponentes-con-yuri.png
 - Favoreces la economía local.
 ** soydetemporada.es
    :PROPERTIES:
-   :reveal_background: file:soydetemporada.png
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/soydetemporada.png
    :END:
 
 
@@ -161,7 +170,7 @@ Las setas son las páginas web que visitas conscientemente al navegar, y los pun
 #+END_QUOTE
 ** trackula.org 
    :PROPERTIES:
-   :reveal_background: file:trackula.png 
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/trackula.png 
    :END:
 
 

@@ -28,23 +28,23 @@
 <body>
 <div class="reveal">
 <div class="slides">
-<section id="sec-title-slide"><h1 class="title">Visualizar17</h1><h2 class="author">Adolfo A. Bravo</h2><h2 class="date">2017-05-06 sáb 10:00</h2><p class="date">Created: 2017-11-17 vie 15:28</p>
+<section id="sec-title-slide"><h1 class="title">Visualizar17</h1><h2 class="author">Adolfo A. Bravo</h2><h2 class="date">2017-05-06 sáb 10:00</h2><p class="date">Created: 2017-11-17 vie 15:29</p>
 </section>
 
 <section>
-<section id="slide-orga48fc70">
-<h2 id="orga48fc70">Datalab</h2>
+<section id="slide-org0e020e0">
+<h2 id="org0e020e0">Datalab</h2>
 
 <div class="figure">
-<p><img src="logo-datalab.png" alt="logo-datalab.png" width="400px" /> 
+<p><img src="img/logo-datalab.png" alt="logo-datalab.png" width="400px" /> 
 </p>
 </div>
 
 </section>
 </section>
 <section>
-<section id="slide-orgdf60295">
-<h3 id="orgdf60295">Actividades</h3>
+<section id="slide-orgffdb5ed">
+<h3 id="orgffdb5ed">Actividades</h3>
 <ul>
 <li>Taller de Producción de Periodismo de Datos <i>TPPD</i></li>
 <li>Taller de Visualización de Datos Visualizar <i>V</i></li>
@@ -58,14 +58,14 @@
 </section>
 </section>
 <section>
-<section id="slide-org4389c0f" data-background="./visualizar17.jpg">
-<h2 id="org4389c0f">Medialab-Prado</h2>
+<section id="slide-org399212d" data-background="./img/visualizar17.jpg">
+<h2 id="org399212d">Medialab-Prado</h2>
 
 </section>
 </section>
 <section>
-<section id="slide-org307ba4e">
-<h2 id="org307ba4e">Visualizar'17: Migraciones</h2>
+<section id="slide-org99ecf2f">
+<h2 id="org99ecf2f">Visualizar'17: Migraciones</h2>
 <ul>
 <li>Taller Internacional de prototipado de proyectos de Visualización de Datos</li>
 <li>8 proyectos, 70 colaboradorxs</li>
@@ -79,8 +79,8 @@
 </section>
 </section>
 <section>
-<section id="slide-org9c662c8">
-<h3 id="org9c662c8">Alianzas</h3>
+<section id="slide-org80380b3">
+<h3 id="org80380b3">Alianzas</h3>
 
 <div class="figure">
 <p><img src="alianzas.png" alt="alianzas.png" width="300px" />
@@ -98,8 +98,8 @@
 </section>
 </section>
 <section>
-<section id="slide-orgdbd811a">
-<h3 id="orgdbd811a">Ponentes</h3>
+<section id="slide-orgc4e66c1">
+<h3 id="orgc4e66c1">Ponentes</h3>
 
 <div class="figure">
 <p><img src="ponentes-con-yuri.png" alt="ponentes-con-yuri.png" />
@@ -119,15 +119,15 @@
 </section>
 </section>
 <section>
-<section id="slide-org423a32d" data-background="visualizar.gif">
-<h3 id="org423a32d">Comunicación</h3>
+<section id="slide-orgca70194" data-background="visualizar.gif">
+<h3 id="orgca70194">Comunicación</h3>
 
 
 </section>
 </section>
 <section>
-<section id="slide-orgdcd43d6">
-<h2 id="orgdcd43d6">Proyectos</h2>
+<section id="slide-org8351c1e">
+<h2 id="org8351c1e">Proyectos</h2>
 <ul>
 <li>Agrega.la: <a href="http://agrega.la">http://agrega.la</a></li>
 <li>Cerebros en movimiento: <a href="https://cerebrosenmovimiento.github.io/proyecto/index.html">https://cerebrosenmovimiento.github.io/proyecto/index.html</a></li>
@@ -142,13 +142,13 @@
 </section>
 </section>
 <section>
-<section id="slide-orgba706c2">
-<h2 id="orgba706c2">Agrega.la</h2>
+<section id="slide-org01d037f">
+<h2 id="org01d037f">Agrega.la</h2>
 </section>
 </section>
 <section>
-<section id="slide-org9d12381">
-<h2 id="org9d12381">Cerebros en Movimiento</h2>
+<section id="slide-org4cdb02e">
+<h2 id="org4cdb02e">Cerebros en Movimiento</h2>
 <ul>
 <li>Orcid, plataforma digital creada en 2012.</li>
 <li>Facilita un identificador numérico único (ID) a cada investigador o científico que se registre gratuitamente.</li>
@@ -159,26 +159,26 @@
 </section>
 </section>
 <section>
-<section id="slide-org20e277f" data-background="cerebros-en-movimiento.png">
-<h3 id="org20e277f"><a href="https://cerebrosenmovimiento.github.io/">https://cerebrosenmovimiento.github.io/</a></h3>
+<section id="slide-org747e34b" data-background="cerebros-en-movimiento.png">
+<h3 id="org747e34b"><a href="https://cerebrosenmovimiento.github.io/">https://cerebrosenmovimiento.github.io/</a></h3>
 </section>
 </section>
 <section>
-<section id="slide-org058bd41">
-<h2 id="org058bd41">Historia de Zainab</h2>
-<div class="outline-text-2" id="text-org058bd41">
+<section id="slide-org4d5e26e">
+<h2 id="org4d5e26e">Historia de Zainab</h2>
+<div class="outline-text-2" id="text-org4d5e26e">
 </div>
 </section>
 </section>
 <section>
-<section id="slide-org9e6ee88" data-background="file:historia-de-zainab.png">
-<h3 id="org9e6ee88">historiadezainab.org</h3>
+<section id="slide-orgf49e031" data-background="file:historia-de-zainab.png">
+<h3 id="orgf49e031">historiadezainab.org</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-orgf8c08c4">
-<h2 id="orgf8c08c4">Mobilomics</h2>
+<section id="slide-orga7d9ab2">
+<h2 id="orga7d9ab2">Mobilomics</h2>
 <ul>
 <li>Estudia la relación entre la movilidad y la contaminación de un día cotidiano en Madrid</li>
 <li>20 septiembre 2017</li>
@@ -191,14 +191,14 @@
 </section>
 </section>
 <section>
-<section id="slide-org1ab1d21" data-background="file:mobilomics.png">
-<h3 id="org1ab1d21">medialab-prado.github.io/mobilomics/</h3>
+<section id="slide-org9e95f1e" data-background="file:mobilomics.png">
+<h3 id="org9e95f1e">medialab-prado.github.io/mobilomics/</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org33138a9">
-<h2 id="org33138a9">Población dirigida</h2>
+<section id="slide-org53cf14d">
+<h2 id="org53cf14d">Población dirigida</h2>
 <ul>
 <li>1939-1973, el Instituto Nacional de Colonización (INV) promovió la construcción en España de más de 300 pueblos.</li>
 <li>Creación de amplias zonas de regadío y el aumento de su productividad.</li>
@@ -212,14 +212,14 @@
 </section>
 </section>
 <section>
-<section id="slide-orgf2bfac7" data-background="file:poblacion-dirigida.png">
-<h3 id="orgf2bfac7">territoriodatos.org/poblacion-dirigida</h3>
+<section id="slide-org8a86034" data-background="file:poblacion-dirigida.png">
+<h3 id="org8a86034">territoriodatos.org/poblacion-dirigida</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org9827601">
-<h2 id="org9827601">Planeta excedencia</h2>
+<section id="slide-org07983b3">
+<h2 id="org07983b3">Planeta excedencia</h2>
 <ul>
 <li>Un planeta de 40.500 personas que migran en 2016 por el cuidado personas a su cargo.</li>
 <li>Esta fórmula pretende conciliar la vida familiar y laboral.</li>
@@ -236,14 +236,14 @@
 </section>
 </section>
 <section>
-<section id="slide-org32dfd11" data-background="file:planeta-excedencia.png">
-<h3 id="org32dfd11">planetaexcedencia.es</h3>
+<section id="slide-org842f1b9" data-background="file:planeta-excedencia.png">
+<h3 id="org842f1b9">planetaexcedencia.es</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-orgd5a2d37">
-<h2 id="orgd5a2d37">Soy de Temporada</h2>
+<section id="slide-org82b0a2a">
+<h2 id="org82b0a2a">Soy de Temporada</h2>
 <p>
 -Comer productos de temporada es bueno para tu salud, tu bolsillo y el medio ambiente.
 </p>
@@ -258,15 +258,15 @@
 </section>
 </section>
 <section>
-<section id="slide-orgb2ad763" data-background="file:soydetemporada.png">
-<h3 id="orgb2ad763">soydetemporada.es</h3>
+<section id="slide-orge579555" data-background="file:soydetemporada.png">
+<h3 id="orge579555">soydetemporada.es</h3>
 
 
 </section>
 </section>
 <section>
-<section id="slide-org70decd7">
-<h2 id="org70decd7">Trackula</h2>
+<section id="slide-orgfd68b9b">
+<h2 id="orgfd68b9b">Trackula</h2>
 <ul>
 <li>Visualización interactiva de tu rastro en internet y de qué sitios web te rastrean a través de los contenidos que visitas cada día.</li>
 <li><a href="http://trackula.org">http://trackula.org</a></li>
@@ -285,8 +285,8 @@ Las setas son las páginas web que visitas conscientemente al navegar, y los pun
 </section>
 </section>
 <section>
-<section id="slide-org0b22afe" data-background="file:trackula.png">
-<h3 id="org0b22afe">trackula.org</h3>
+<section id="slide-org0818d91" data-background="file:trackula.png">
+<h3 id="org0818d91">trackula.org</h3>
 </section>
 </section>
 </div>
