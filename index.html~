@@ -10,7 +10,7 @@
 </style>
 <link rel="stylesheet" href="///cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
 
-<link rel="stylesheet" href="///cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/sky.css" id="theme"/>
+<link rel="stylesheet" href="///cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/night.css" id="theme"/>
 
 <link rel="stylesheet" href="///cdn.jsdelivr.net/reveal.js/3.0.0/lib/css/zenburn.css"/>
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
@@ -23,17 +23,17 @@
         document.getElementsByTagName( 'head' )[0].appendChild( link );
     }
 </script>
-<meta name="description" content="Org-Reveal Introduction.">
+<meta name="description" content="Proyectos de Visualizar'17.">
 </head>
 <body>
 <div class="reveal">
 <div class="slides">
-<section id="sec-title-slide"><h1 class="title">Visualizar17</h1><h2 class="author">Adolfo A. Bravo</h2><h2 class="date">2017-05-06 sáb 10:00</h2><p class="date">Created: 2017-11-17 vie 15:45</p>
+<section id="sec-title-slide"><h1 class="title">Visualizar17</h1><h2 class="author">Adolfo A. Bravo</h2><h2 class="date">2017-11-17 vie 00:00</h2><p class="date">Created: 2017-11-17 vie 17:20</p>
 </section>
 
 <section>
-<section id="slide-org1fd828f">
-<h2 id="org1fd828f">Datalab</h2>
+<section id="slide-org486f9ae">
+<h2 id="org486f9ae">Datalab</h2>
 
 <div class="figure">
 <p><img src="https://github.com/medialab-prado/v17-presentacion/raw/master/img/logo-datalab.png" alt="logo-datalab.png" width="400px" /> 
@@ -43,8 +43,8 @@
 </section>
 </section>
 <section>
-<section id="slide-org78b8541">
-<h3 id="org78b8541">Actividades</h3>
+<section id="slide-org0d93fb6">
+<h3 id="org0d93fb6">Actividades</h3>
 <ul>
 <li>Taller de Producción de Periodismo de Datos <i>TPPD</i></li>
 <li>Taller de Visualización de Datos Visualizar <i>V</i></li>
@@ -58,14 +58,14 @@
 </section>
 </section>
 <section>
-<section id="slide-orge81800b" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar17.jpg">
-<h2 id="orge81800b">Medialab-Prado</h2>
+<section id="slide-org3d0bfdc" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar17.jpg">
+<h2 id="org3d0bfdc">Medialab-Prado</h2>
 
 </section>
 </section>
 <section>
-<section id="slide-org93eb675">
-<h2 id="org93eb675">Visualizar'17: Migraciones</h2>
+<section id="slide-orgc8bd100">
+<h2 id="orgc8bd100">Visualizar'17: Migraciones</h2>
 <ul>
 <li>Taller Internacional de prototipado de proyectos de Visualización de Datos</li>
 <li>8 proyectos, 70 colaboradorxs</li>
@@ -79,55 +79,27 @@
 </section>
 </section>
 <section>
-<section id="slide-org077747f">
-<h3 id="org077747f">Alianzas</h3>
-
-<div class="figure">
-<p><img src="https://github.com/medialab-prado/v17-presentacion/raw/master/img/alianzas.png" alt="alianzas.png" width="300px" />
-</p>
-</div>
-
-<ul>
-<li>PorCausa</li>
-<li>GVSIG</li>
-<li>Transeuropa Festival</li>
-<li>Haskell Group Madrid</li>
-
-</ul>
+<section id="slide-orge1434f7" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/alianzas.jpg">
+<h3 id="orge1434f7">Alianzas</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org42fee22">
-<h3 id="org42fee22">Ponentes</h3>
-
-<div class="figure">
-<p><img src="https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-yuri.png" alt="ponentes-con-yuri.png" />
-</p>
-</div>
-
-<ul>
-<li>Alba G. Corral</li>
-<li>Domestic Data Streamers</li>
-<li>Alison Killing</li>
-<li>Julie Freeman</li>
-<li>Álvaro Anguix</li>
-<li>Yuri Engelhardt</li>
-
-</ul>
+<section id="slide-org8d30a6f" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-yuri.jpg">
+<h3 id="org8d30a6f">Ponentes</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org0c3e997" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar.gif">
-<h3 id="org0c3e997">Comunicación</h3>
+<section id="slide-org075581c" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar.gif">
+<h3 id="org075581c">Comunicación</h3>
 
 
 </section>
 </section>
 <section>
-<section id="slide-org7cbad07">
-<h2 id="org7cbad07">Proyectos</h2>
+<section id="slide-orge318c08">
+<h2 id="orge318c08">Proyectos</h2>
 <ul>
 <li>Agrega.la: <a href="http://agrega.la">http://agrega.la</a></li>
 <li>Cerebros en movimiento: <a href="https://cerebrosenmovimiento.github.io/proyecto/index.html">https://cerebrosenmovimiento.github.io/proyecto/index.html</a></li>
@@ -142,8 +114,8 @@
 </section>
 </section>
 <section>
-<section id="slide-orgf94ce3d">
-<h2 id="orgf94ce3d">Agrega.la</h2>
+<section id="slide-orgd8e434b">
+<h2 id="orgd8e434b">Agrega.la</h2>
 <ul>
 <li>Red presente en Brasil, Argentina, Colombia y México</li>
 <li>Tiene como objetivo promover la visibilización de contenidos y acciones entre medios independientes, libres o comunitarios.</li>
@@ -154,14 +126,14 @@
 </section>
 </section>
 <section>
-<section id="slide-org061feab" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/agregala.png">
-<h3 id="org061feab">agrega.la</h3>
+<section id="slide-org53acee2" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/agregala.png">
+<h3 id="org53acee2">agrega.la</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org01d3c8f">
-<h2 id="org01d3c8f">Cerebros en Movimiento</h2>
+<section id="slide-org1d4b42c">
+<h2 id="org1d4b42c">Cerebros en Movimiento</h2>
 <ul>
 <li>Orcid, plataforma digital creada en 2012.</li>
 <li>Facilita un identificador numérico único (ID) a cada investigador o científico que se registre gratuitamente.</li>
@@ -172,26 +144,26 @@
 </section>
 </section>
 <section>
-<section id="slide-orgb92f05e" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/cerebros-en-movimiento.png">
-<h3 id="orgb92f05e">cerebrosenmovimiento.github.io</h3>
+<section id="slide-org3746e50" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/cerebros-en-movimiento.png">
+<h3 id="org3746e50">cerebrosenmovimiento.github.io</h3>
 </section>
 </section>
 <section>
-<section id="slide-org6248795">
-<h2 id="org6248795">Historia de Zainab</h2>
-<div class="outline-text-2" id="text-org6248795">
+<section id="slide-org07c5100">
+<h2 id="org07c5100">Historia de Zainab</h2>
+<div class="outline-text-2" id="text-org07c5100">
 </div>
 </section>
 </section>
 <section>
-<section id="slide-org78495ac" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/historia-de-zainab.png">
-<h3 id="org78495ac">historiadezainab.org</h3>
+<section id="slide-org82a06f4" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/historia-de-zainab.png">
+<h3 id="org82a06f4">historiadezainab.org</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org6225a81">
-<h2 id="org6225a81">Mobilomics</h2>
+<section id="slide-orgac57da5">
+<h2 id="orgac57da5">Mobilomics</h2>
 <ul>
 <li>Estudia la relación entre la movilidad y la contaminación de un día cotidiano en Madrid</li>
 <li>20 septiembre 2017</li>
@@ -204,14 +176,14 @@
 </section>
 </section>
 <section>
-<section id="slide-orgab05fda" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/mobilomics.png">
-<h3 id="orgab05fda">medialab-prado.github.io/mobilomics/</h3>
+<section id="slide-org40e5f64" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/mobilomics.png">
+<h3 id="org40e5f64">medialab-prado.github.io/mobilomics/</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-orgabe1a5c">
-<h2 id="orgabe1a5c">Población dirigida</h2>
+<section id="slide-org8699660">
+<h2 id="org8699660">Población dirigida</h2>
 <ul>
 <li>1939-1973, el Instituto Nacional de Colonización (INV) promovió la construcción en España de más de 300 pueblos.</li>
 <li>Creación de amplias zonas de regadío y el aumento de su productividad.</li>
@@ -225,14 +197,14 @@
 </section>
 </section>
 <section>
-<section id="slide-orgfd00ad1" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/poblacion-dirigida.png">
-<h3 id="orgfd00ad1">territoriodatos.org/poblacion-dirigida</h3>
+<section id="slide-org3e670e2" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/poblacion-dirigida.png">
+<h3 id="org3e670e2">territoriodatos.org/poblacion-dirigida</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org893dbb7">
-<h2 id="org893dbb7">Planeta excedencia</h2>
+<section id="slide-org96e4507">
+<h2 id="org96e4507">Planeta excedencia</h2>
 <ul>
 <li>Un planeta de 40.500 personas que migran en 2016 por el cuidado personas a su cargo.</li>
 <li>Esta fórmula pretende conciliar la vida familiar y laboral.</li>
@@ -249,14 +221,14 @@
 </section>
 </section>
 <section>
-<section id="slide-org738805a" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/planeta-excedencia.png">
-<h3 id="org738805a">planetaexcedencia.es</h3>
+<section id="slide-org0bdc271" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/planeta-excedencia.png">
+<h3 id="org0bdc271">planetaexcedencia.es</h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org9cccfc0">
-<h2 id="org9cccfc0">Soy de Temporada</h2>
+<section id="slide-orgb261a3e">
+<h2 id="orgb261a3e">Soy de Temporada</h2>
 <p>
 -Comer productos de temporada es bueno para tu salud, tu bolsillo y el medio ambiente.
 </p>
@@ -271,15 +243,15 @@
 </section>
 </section>
 <section>
-<section id="slide-org2e3c4e6" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/soydetemporada.png">
-<h3 id="org2e3c4e6">soydetemporada.es</h3>
+<section id="slide-orgbb886de" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/soydetemporada.png">
+<h3 id="orgbb886de">soydetemporada.es</h3>
 
 
 </section>
 </section>
 <section>
-<section id="slide-orge32a83a">
-<h2 id="orge32a83a">Trackula</h2>
+<section id="slide-org7ae6fe8">
+<h2 id="org7ae6fe8">Trackula</h2>
 <ul>
 <li>Visualización interactiva de tu rastro en internet y de qué sitios web te rastrean a través de los contenidos que visitas cada día.</li>
 <li><a href="http://trackula.org">http://trackula.org</a></li>
@@ -298,13 +270,13 @@ Las setas son las páginas web que visitas conscientemente al navegar, y los pun
 </section>
 </section>
 <section>
-<section id="slide-org1030deb" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/trackula.png">
-<h3 id="org1030deb">trackula.org</h3>
+<section id="slide-orgec95f78" data-background="https://github.com/medialab-prado/v17-presentacion/raw/master/img/trackula.png">
+<h3 id="orgec95f78">trackula.org</h3>
 </section>
 </section>
 </div>
 </div>
-<p> Creado por adolflow. </p>
+<p> Creado por adolflow, Datalab. </p>
 <script src="///cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
 <script src="///cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
 

@@ -3,23 +3,23 @@
 #+TAGS: commandline, línea de comandos, ls, pwd, mkdir, cd, touch, cp, mv, stdin, stdout, stderr, posix, diff, grep, egrep, find, awk, sed
 #+DESCRIPTION: Acometer un proyecto en Medialab-Prado
 #+TITLE: Visualizar17
-#+DATE: <2017-05-06 sáb 10:00>
+#+DATE: <2017-11-17 vie>
 #+AUTHOR: Adolfo A. Bravo
 #+EMAIL: adolfo@medialab-prado.es
 #+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
 
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil reveal-title-slide:nil
 #+OPTIONS: reveal_width:1200 reveal_height:800
 #+OPTIONS: toc:nil
 #+REVEAL_MARGIN: 0.1
 #+REVEAL_MIN_SCALE: 0.5
 #+REVEAL_MAX_SCALE: 2.5
 #+REVEAL_TRANS: linear
-#+REVEAL_THEME: sky
+#+REVEAL_THEME: night
 #+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
-#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Proyectos de Visualizar'17.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow, Datalab. </p>
 #+REVEAL_PLUGINS: (highlight markdown notes)
 #+REVEAL_ROOT: ///cdn.jsdelivr.net/reveal.js/3.0.0/
 
@@ -50,29 +50,19 @@ https://github.com/medialab-prado/v17-presentacion/raw/master/img/logo-datalab.p
 - 4 entidades colaboradoras.
 
 ** Alianzas
-#+attr_html: :width 300px
-https://github.com/medialab-prado/v17-presentacion/raw/master/img/alianzas.png
-
-- PorCausa
-- GVSIG
-- Transeuropa Festival
-- Haskell Group Madrid
+   :PROPERTIES:
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/alianzas.jpg
+   :END:
 
 ** Ponentes
-#+attr_html: :width: 300px
-https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-yuri.png
-
-- Alba G. Corral
-- Domestic Data Streamers
-- Alison Killing
-- Julie Freeman
-- Álvaro Anguix
-- Yuri Engelhardt
+   :PROPERTIES:
+   :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-yuri.jpg
+   :END:
 
 ** Comunicación
    :PROPERTIES:
    :reveal_background: https://github.com/medialab-prado/v17-presentacion/raw/master/img/visualizar.gif
-   :END:
+    :END:
 
 
 * Proyectos
@@ -138,7 +128,7 @@ https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-y
 * Planeta excedencia
 - Un planeta de 40.500 personas que migran en 2016 por el cuidado personas a su cargo.
 - Esta fórmula pretende conciliar la vida familiar y laboral.
-. Como norma general, se asegura el puesto de trabajo el primer año.
+- Como norma general, se asegura el puesto de trabajo el primer año.
 - ¿Quiénes son sus habitantes?
 - ¿Se produce un retorno al mundo laboral?
 ** planetaexcedencia.es
@@ -147,7 +137,7 @@ https://github.com/medialab-prado/v17-presentacion/raw/master/img/ponentes-con-y
    :END:
 
 * Soy de Temporada
- -Comer productos de temporada es bueno para tu salud, tu bolsillo y el medio ambiente.
+- Comer productos de temporada es bueno para tu salud, tu bolsillo y el medio ambiente.
 - Reduce las emisiones de CO2
 - Apoyas la sostenibilidad de la tierra
 - Consumes productos que han sido recogidos en su punto óptimo de maduración
